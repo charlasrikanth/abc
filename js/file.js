@@ -42,9 +42,9 @@ var initialLocations = [
 		long: 77.9483199
 	},
 	{
-		name: 'Sarnath Jain Temple',
-		lat:  25.3805151,
-		long: 83.021584
+		name: 'Kushinagar',
+		lat:  26.7417146,
+		long: 83.8805839
 	},
 	{
 		name: 'Gorakhpur',
